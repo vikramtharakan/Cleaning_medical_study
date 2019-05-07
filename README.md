@@ -7,5 +7,5 @@ Goes through a medical study and cleans the findings in order to make analyzing 
 
 ## Directions
 
-<p>Load in all the .csv files to your local directory to perform analysis on the data. To see what steps I took, view the cleaning HTML or ipynb file. </p>
+<p>Load in all the .csv files to your local directory to perform analysis on the data. The 3 that were used were the adverse_reactions table, patients table, and the treatments table. To see what steps I took, view the cleaning HTML or ipynb file. </p>
 
